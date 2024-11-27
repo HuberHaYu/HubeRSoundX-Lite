@@ -8,7 +8,8 @@
 <br>
 
 #### 安装APK后前往系统控制中心添加磁贴开关，磁贴开关如图
-After installing the APK, go to the system control center to add the tile switch.
+After installing the APK, go to the system control center to add the tile switch.<br>
+![](https://huberhayu.github.io/HubeRSoundX-Lite/image/hsxlite.png)
 <br>
 <br>
 
