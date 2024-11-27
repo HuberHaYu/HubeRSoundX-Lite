@@ -14,7 +14,7 @@ After installing the APK, go to the system control center to add the tile switch
 
 #### _引用的权限(Service Permission)_
 
-```
+```ruby
   <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
   <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
 ```
