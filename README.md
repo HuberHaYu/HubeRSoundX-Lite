@@ -12,8 +12,7 @@ After installing the APK, go to the system control center to add the tile switch
 <br>
 <br>
 
-### _部分开源内容(Partially open-sourced content)_
-<br>
+### 部分开源内容(Partially open-sourced content)
 
 #### _引用的权限Manifest(Manifest Permission)_
 
