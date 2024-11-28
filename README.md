@@ -7,8 +7,8 @@
 ### _安装/激活 (Install/Activate)_
 <br>
 
-#### 安装APK后前往系统控制中心添加磁贴开关，磁贴开关如图
-After installing the APK, go to the system control center to add the tile switch.<br>
+#### 以系统级App安装后（/product/app/HSXTools）前往系统控制中心添加磁贴开关，磁贴开关如图
+After installing the APK with SystemLevel(/product/app/HSXTools), go to the system control center to add the tile switch.<br>
 ![](https://huberhayu.github.io/HubeRSoundX-Lite/image/hsxlite.png)
 <br>
 <br>
